@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun221&label=Profile%20views&color=0e75b6&style=flat" alt="nipun221" /> </p>
 
 <h1 align="center">Hi 👋, I'm Nipun</h1>
-<h3 align="center">B.Tech Student | C++ developer | Figma Enthusiast</h3>
+<h3 align="center">B.Tech Student | C++ Developer | Figma Enthusiast</h3>
 
 - 🔭 I’m currently working on **Home Workout App powered by Flutter and BLOC**
 
