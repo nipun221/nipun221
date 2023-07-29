@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fullstack with MERN**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development & Flutter**
 
 - 📫 How to reach me **nipunvats5@gmail.com**
 
