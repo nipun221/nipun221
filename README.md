@@ -38,9 +38,7 @@
 
 ### 🐍 Contribution Snake (DevOps Favourite)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nipun221/nipun221/output/github-contribution-grid-snake-dracula.svg" />
-</p>
+![snake svg](https://github.com/nipun221/nipun221/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
