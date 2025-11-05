@@ -42,8 +42,6 @@
   <img src="https://raw.githubusercontent.com/nipun221/nipun221/output/github-contribution-grid-snake.svg" />
 </p>
 
-> (To enable this — I'll help you automate snake via GitHub Actions after you paste this)
-
 ---
 
 ### 🔥 GitHub Trophies
@@ -54,7 +52,7 @@
 ---
 
 ### 📫 Contact Me
-📩 Email: **nipunvats2001@gmail.com**  
+📩 Email: **nipunvats5@gmail.com**  
 🔗 Portfolio: (Coming Soon — will add once built)
 
 ---
