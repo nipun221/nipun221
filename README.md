@@ -49,6 +49,15 @@
 
 ---
 
+### 🚀 Highlighted Projects
+
+| Project | Status |
+|---------|--------|
+| Weather CLI AQI Monitor | [![Weather + Aqi App Pipeline](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml/badge.svg)](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml) |
+
+
+---
+
 ### 📫 Contact Me
 📩 Email: **nipunvats5@gmail.com**  
 🔗 Portfolio: (Coming Soon — will add once built)
