@@ -53,7 +53,7 @@
 
 | Project | CI Status | Container Version |
 |---------|-----------|-------------------|
-| Weather CLI AQI Monitor | [![Weather + Aqi App Pipeline](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml/badge.svg)](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml) | ![Weather CLI Image Version](https://ghcr-badge.egpl.dev/nipun221/weather-cli/latest_tag?label=version&color=blue&style=flat-square) |
+| **[Weather CLI AQI Monitor](https://github.com/nipun221/python-weather-app)** | [![Weather + Aqi App Pipeline](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml/badge.svg)](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml) | ![Weather CLI Image Version](https://ghcr-badge.egpl.dev/nipun221/weather-cli/latest_tag?label=version&color=blue&style=flat-square) |
 
 ---
 
