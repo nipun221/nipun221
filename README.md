@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 Contribution Snake (DevOps Favourite)
+### 🐍 Contribution Snake 
 
 ![snake svg](https://github.com/nipun221/nipun221/blob/output/github-contribution-grid-snake-dark.svg)
 
