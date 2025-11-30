@@ -51,9 +51,14 @@
 
 ### 🚀 Highlighted Projects
 
-| Project | CI Status | Container Version |
-|---------|-----------|-------------------|
-| **[Weather CLI AQI Monitor](https://github.com/nipun221/python-weather-app)** | [![Weather + Aqi App Pipeline](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml/badge.svg)](https://github.com/nipun221/python-weather-app/actions/workflows/ci.yml) | ![Weather CLI Image Version](https://ghcr-badge.egpl.dev/nipun221/weather-cli/latest_tag?label=version&color=blue&style=flat-square) |
+## 🚀 Featured DevOps Projects
+
+| **Project Name** | **GitHub Repository** | **YouTube Demo** |
+|------------------|------------------------|------------------|
+| **Issue Tracker – React + Node + Mongo (CI/CD to AWS EKS)** | [🔗 GitHub Repo](https://github.com/nipun221/issue-tracker) | [▶️ Watch Demo](youtu.be/xn3FOB3I4BE) |
+| **Flask Blog App – 2-Tier Dockerized CI/CD (Jenkins)** | [🔗 GitHub Repo](https://github.com/nipun221/flask-blog-app) | [▶️ Watch Demo](youtu.be/1EkM6_5L7xc) |
+| **Nike React – Full CI/CD Pipeline with Jenkins + NGINX** | [🔗 GitHub Repo](https://github.com/nipun221/nike) | [▶️ Watch Demo](https://youtu.be/fLFWhiYAPB4) |
+
 
 ---
 
