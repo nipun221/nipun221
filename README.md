@@ -49,9 +49,7 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-## 🚀 Featured DevOps Projects
+### 🚀 Featured DevOps Projects
 
 | **Project Name** | **GitHub Repository** | **YouTube Demo** |
 |------------------|------------------------|------------------|
