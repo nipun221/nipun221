@@ -55,9 +55,9 @@
 
 | **Project Name** | **GitHub Repository** | **YouTube Demo** |
 |------------------|------------------------|------------------|
-| **Issue Tracker – React + Node + Mongo (CI/CD to AWS EKS)** | [🔗 GitHub Repo](https://github.com/nipun221/issue-tracker) | [▶️ Watch Demo](youtu.be/xn3FOB3I4BE) |
-| **Flask Blog App – 2-Tier Dockerized CI/CD (Jenkins)** | [🔗 GitHub Repo](https://github.com/nipun221/flask-blog-app) | [▶️ Watch Demo](youtu.be/1EkM6_5L7xc) |
-| **Nike React – Full CI/CD Pipeline with Jenkins + NGINX** | [🔗 GitHub Repo](https://github.com/nipun221/nike) | [▶️ Watch Demo](https://youtu.be/fLFWhiYAPB4) |
+| **Issue Tracker – React + Node + Mongo (CI/CD to AWS EKS)** | [🔗 GitHub Repo](https://github.com/nipun221/issue-tracker) | [▶️ Watch Demo](https://www.youtube.com/watch?v=xn3FOB3I4BE) |
+| **Flask Blog App – 2-Tier Dockerized CI/CD (Jenkins)** | [🔗 GitHub Repo](https://github.com/nipun221/flask-blog-app) | [▶️ Watch Demo](https://www.youtube.com/watch?v=1EkM6_5L7xc) |
+| **Nike React – Full CI/CD Pipeline with Jenkins + NGINX** | [🔗 GitHub Repo](https://github.com/nipun221/nike) | [▶️ Watch Demo](https://www.youtube.com/watch?v=fLFWhiYAPB4) |
 
 
 ---
