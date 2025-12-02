@@ -55,8 +55,8 @@
 |------------------|------------------------|------------------|
 | **Issue Tracker – React + Node + Mongo (CI/CD to AWS EKS)** | [🔗 GitHub Repo](https://github.com/nipun221/issue-tracker) | [▶️ Watch Demo](https://www.youtube.com/watch?v=xn3FOB3I4BE) |
 | **Flask Blog App – 2-Tier Dockerized CI/CD (Jenkins)** | [🔗 GitHub Repo](https://github.com/nipun221/flask-blog-app) | [▶️ Watch Demo](https://www.youtube.com/watch?v=1EkM6_5L7xc) |
+| **S3 Static Website Hosting with Terraform** | [🔗 GitHub Repo](https://github.com/nipun221/s3-static-website) | [▶️ Watch Demo](https://www.youtube.com/watch?v=dP-amtU8SYQ) |
 | **Nike React – Full CI/CD Pipeline with Jenkins + NGINX** | [🔗 GitHub Repo](https://github.com/nipun221/nike) | [▶️ Watch Demo](https://www.youtube.com/watch?v=fLFWhiYAPB4) |
-
 
 ---
 
