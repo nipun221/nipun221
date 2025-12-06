@@ -62,7 +62,7 @@
 
 ### 📫 Contact Me
 📩 Email: **nipunvats5@gmail.com**  
-🔗 Portfolio: (Coming Soon — will add once built)
+🔗 Portfolio: https://nipun221.github.io/my-devops-portfolio
 
 ---
 
